@@ -1,4 +1,3 @@
-cat > image_poster.py << 'EOF'
 import os
 import tweepy
 import random
