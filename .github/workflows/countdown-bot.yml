@@ -1,4 +1,3 @@
-cat > .github/workflows/nidhhi-work.yml << 'EOF'
 name: Nidhhi 3-Account Poster
 on:
   schedule:
